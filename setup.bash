@@ -1,4 +1,5 @@
 #!/bin/bash -xve
+#Written by d1s
 
 exec 2> /tmp/setup.log
 
